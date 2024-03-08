@@ -1,0 +1,14 @@
+{
+  "name": "m3-w1-day1hw-1",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "server_task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Crytal Pittman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
